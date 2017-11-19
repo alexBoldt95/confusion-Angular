@@ -34,7 +34,7 @@ const DISHES: Dish[] = [
                         label: '',
                         price: '2.99',
                         description: 'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'
-                    };
+                    }
                 ];
 
 @Component({
